@@ -6,7 +6,7 @@ has_children: false
 
 # Academic Readings I: Arts & Humanities
 
-Alexander Walmsley - a.walmsley@filmuniversitaet.de
+Alexander Walmsley - a.walmsley@filmuniversitaet.de    
 Prof. Dr. Lena Gieseke - l.gieseke@filmuniversitaet.de
 
 Wednesdays, 14.30-15.30   
@@ -109,11 +109,11 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 * Du Sautoy, M. (2020): [Creativity Code: Art and Innovation in the Age of AI]([readings/denning_2019_cth.pdf](https://www.hup.harvard.edu/catalog.php?isbn=9780674244719))
 * Harari, Y. N. (2024): [Nexus - A Brief History of Information Networks from the Stone Age to AI](https://www.ynharari.com/book/nexus/)
 * Mollick, E. (2024): [Co-Intelligence: Living and Working with AI](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
-* Crawford, K. (2021):[Atlas of AI](https://katecrawford.net/atlas)
+* Crawford, K. (2021): [Atlas of AI](https://katecrawford.net/atlas)
 * Multiple authors (2024):[An AI Society](https://issues.org/wp-content/uploads/2023/12/76-88-An-AI-Society-Winter-2024.pdf) (fairly short, must be presented in combination with another reading)
 * Christian, B. (2020): [The Alignment Problem - How Can Artificial Intelligence Learn Human Values?](https://brianchristian.org/the-alignment-problem/)
-* Dixon, C. (2024):[Read Write Own: Building the Next Era of the Internet](https://readwriteown.com/)
-* Toscano, J. (2018):[Automating Humanity](https://www.simonandschuster.com/books/Automating-Humanity/Joe-Toscano/9781576879207)
+* Dixon, C. (2024): [Read Write Own: Building the Next Era of the Internet](https://readwriteown.com/)
+* Toscano, J. (2018): [Automating Humanity](https://www.simonandschuster.com/books/Automating-Humanity/Joe-Toscano/9781576879207)
 * Weyl, E.G., Tang, A. (2024): [Plurality: The Future of Collaborative Technology and Democracy](https://www.plurality.net/)
 * Denning, P. and Tedre, M. (2019): [Computational Thinking](https://owncloud.gwdg.de/index.php/s/kAb4bsTCPkHBSPa)
 * Cox, G. and McLean, A. (2012): [Speaking Code: Coding as Aesthetic and Political Expression](https://direct.mit.edu/books/book/3964/Speaking-CodeCoding-as-Aesthetic-and-Political)

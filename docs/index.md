@@ -141,6 +141,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 * Flusser, V. (2000): [Towards a Philosophy of Photography](https://slowrotation.memoryoftheworld.org/Vilem%20Flusser/Towards%20a%20Philosophy%20of%20Photograph%20(18638)/Towards%20a%20Philosophy%20of%20Photogr%20-%20Vilem%20Flusser.pdf)
 * Terranova, T. (2004): [Network Culture: Politics for the Information Age](https://nikomas.memoryoftheworld.org/Tiziana%20Terranova/Network%20Culture_%20Politics%20for%20the%20Information%20Age%20(794)/Network%20Culture_%20Politics%20for%20the%20Informat%20-%20Tiziana%20Terranova.pdf)
 * Hofstadter, D. (1980): [Gödel, Escher, Bach: An Eternal Golden Braid](https://anybody.memoryoftheworld.org/Douglas%20R.%20Hofstadter/Godel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Braid%20(162)/Godel,%20Escher,%20Bach_%20An%20Eternal%20Golden%20Bra%20-%20Douglas%20R.%20Hofstadter.pdf)
+* Manovich, L. (2025): [Artificial Aesthetics: Generative AI, Art and Visual Media](https://manovich.net/index.php/projects/artificial-aesthetics)
 
 ---
 

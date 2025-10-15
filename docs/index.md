@@ -143,23 +143,23 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 ## Schedule
 
 
-| Session  | Topic                   | Pages | Presenter |
-| -------- | ----------------------- | ----- | --------- |
-| 15.10.25 | Introduction            |       | Lena      |
-|          | Presentation Techniques |       | Lena      |
-| 22.10.25 | No Class                |       |           |
-| 29.10.25 | No Class                |       |           |
-| 05.11.25 | No Class                |       |           |
-| 12.11.25 | No Class                |       |           |
-| 19.11.25 | tba                     |       |           |
-| 26.11.25 | tba                     |       |           |
-| 03.12.25 | tba                     |       |           |
-| 10.12.25 | tba                     |       |           |
-| 17.12.25 | tba                     |       |           |
-| 14.01.26 | tba                     |       |           |
-| 21.01.26 | tba                     |       |           |
-| 28.01.26 | tba                     |       |           |
-| 04.02.26 | tba                     |       |           |
+| Session  | Topic                                               | Pages | Presenter |
+| -------- | --------------------------------------------------- | ----- | --------- |
+| 15.10.25 | Introduction                                        |       | Lena      |
+|          | [Presentation Techniques](./how_to_researchtalk.html) |       | Lena      |
+| 22.10.25 | No Class                                            |       |           |
+| 29.10.25 | No Class                                            |       |           |
+| 05.11.25 | No Class                                            |       |           |
+| 12.11.25 | No Class                                            |       |           |
+| 19.11.25 | tba                                                 |       |           |
+| 26.11.25 | tba                                                 |       |           |
+| 03.12.25 | tba                                                 |       |           |
+| 10.12.25 | tba                                                 |       |           |
+| 17.12.25 | tba                                                 |       |           |
+| 14.01.26 | tba                                                 |       |           |
+| 21.01.26 | tba                                                 |       |           |
+| 28.01.26 | tba                                                 |       |           |
+| 04.02.26 | tba                                                 |       |           |
 
 
 ---

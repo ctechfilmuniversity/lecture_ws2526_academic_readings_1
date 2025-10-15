@@ -133,7 +133,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 * Laczkó, J. (2021): [The Art of Hacking ](https://laczkojuli.net/wp-content/uploads/2022/09/Laczko-Art-of-Hacking-compressed_compressed-1.pdf)
 * Bridle, J. (2022): [Ways of Being - Animals, Plants, Machines: The Search for a Planetary Intelligence](https://www.jamesbridle.com/books/ways-of-being)
 * Strogatz, S. H. (2019): [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.goodreads.com/book/show/49108603-infinite-powers)
-* Steyerl, H. (2025): Medium Hot: Images in the Age of Heat.
+* Steyerl, H. (2016): [The Wretched of the Screen](https://marcell.memoryoftheworld.org/Hito%20Steyerl/The%20Wretched%20of%20the%20Screen%20(2888)/The%20Wretched%20of%20the%20Screen%20-%20Hito%20Steyerl.pdf)
 * Kittler, F. (2014): [The Truth of the Technological World](https://slowrotation.memoryoftheworld.org/Friedrich%20Kittler/The%20Truth%20of%20the%20Technological%20Wor%20(19479)/The%20Truth%20of%20the%20Technological%20-%20Friedrich%20Kittler.pdf)
 * Benjamin, W. (2002/1936): [Art in a Technological Age](https://nikomas.memoryoftheworld.org/Walter%20Benjamin/Selected%20Writings%20-%20Volume%203%20(1935-1938)%20(583)/Selected%20Writings%20-%20Volume%203%20(1935-1938)%20-%20Walter%20Benjamin.pdf)
 * Wark, M. (2004): [A Hacker Manifesto](https://slowrotation.memoryoftheworld.org/McKenzie%20Wark/A%20Hacker%20Manifesto%20(9001)/A%20Hacker%20Manifesto%20-%20McKenzie%20Wark.pdf)

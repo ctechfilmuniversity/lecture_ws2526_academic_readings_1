@@ -135,7 +135,6 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 * Strogatz, S. H. (2019): [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.goodreads.com/book/show/49108603-infinite-powers)
 * Steyerl, H. (2025): Medium Hot: Images in the Age of Heat.
 * Kittler, F. (2014): [The Truth of the Technological World](https://slowrotation.memoryoftheworld.org/Friedrich%20Kittler/The%20Truth%20of%20the%20Technological%20Wor%20(19479)/The%20Truth%20of%20the%20Technological%20-%20Friedrich%20Kittler.pdf)
-* 
 
 
 

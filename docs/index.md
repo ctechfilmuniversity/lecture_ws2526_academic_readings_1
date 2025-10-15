@@ -4,7 +4,7 @@ title: Home
 has_children: false
 ---
 
-# Academic Readings I: Arts & Humanities
+# Academic Readings I: Arts and Humanities
 
 Alexander Walmsley - a.walmsley@filmuniversitaet.de    
 Prof. Dr. Lena Gieseke - l.gieseke@filmuniversitaet.de
@@ -23,7 +23,7 @@ Room: 6119
 ---
 
 
-* [Academic Readings I: Arts \& Humanities](#academic-readings-i-arts--humanities)
+* [Academic Readings I: Arts and Humanities](#academic-readings-i-arts-and-humanities)
     * [Purpose of the Course](#purpose-of-the-course)
     * [Learning Objectives](#learning-objectives)
     * [Method of Instruction](#method-of-instruction)

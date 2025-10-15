@@ -4,7 +4,7 @@ class: center, middle, inverse
 ---
 
 
-# How To Give a Good (Research) Talk
+# How To Give a (Research) Talk
 
 ### Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de  
 

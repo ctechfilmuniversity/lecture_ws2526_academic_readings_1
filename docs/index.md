@@ -158,14 +158,14 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 | 29.10.25 | No Class                                            |       |           |
 | 05.11.25 | No Class                                            |       |           |
 | 12.11.25 | No Class                                            |       |           |
-| 19.11.25 | tba                                                 |       |           |
-| 26.11.25 | tba                                                 |       |           |
-| 03.12.25 | tba                                                 |       |           |
-| 10.12.25 | tba                                                 |       |           |
-| 17.12.25 | tba                                                 |       |           |
-| 14.01.26 | tba                                                 |       |           |
-| 21.01.26 | tba                                                 |       |           |
-| 28.01.26 | tba                                                 |       |           |
+| 19.11.25 | Manovich, L. 2025. Artificial Aesthetics: Generative AI, Art and Visual Media |       | Amelie |
+| 26.11.25 | Auslander, P. 2008. Liveness.                       |       | Maria     |
+| 03.12.25 | Plant, S. 1997. Zeros and Ones.                     |       | Bonita    |
+| 10.12.25 | Mollick, E. 2024. Co-Intelligence.                  |       | Linus     |
+| 17.12.25 | Bridle, J. 2022. Ways of Being.                     |       | Lynn      |
+| 14.01.26 | du Sautoy, M. 2019. The Creativity Code.            |       | Johannes  |
+| 21.01.26 | Gibson, S., Arisona, D., Leishman, A. 2023. Live Visuals: History, Theory, Practice. |       | Katha   |
+| 28.01.26 | Boden, M. 2010. Creativity and Artificial Intelligence. |       | Nike  |
 | 04.02.26 | tba                                                 |       |           |
 
 

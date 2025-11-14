@@ -158,7 +158,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 | 29.10.25 | No Class                                            |       |           |
 | 05.11.25 | No Class                                            |       |           |
 | 12.11.25 | No Class                                            |       |           |
-| 19.11.25 | Manovich, L. 2025. Artificial Aesthetics: Generative AI, Art and Visual Media |       | Amelie |
+| 19.11.25 | Manovich, L. 2025. Artificial Aesthetics: Generative AI, Art and Visual Media | pgs. 8-23; 25-38; 95-117 | Amelie |
 | 26.11.25 | Auslander, P. 2008. Liveness.                       |       | Maria     |
 | 03.12.25 | Plant, S. 1997. Zeros and Ones.                     |       | Bonita    |
 | 10.12.25 | Mollick, E. 2024. Co-Intelligence.                  |       | Linus     |

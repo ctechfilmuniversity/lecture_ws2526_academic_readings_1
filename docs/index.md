@@ -160,7 +160,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 | 12.11.25 | No Class                                            |       |           |
 | 19.11.25 | Manovich, L. 2025. Artificial Aesthetics: Generative AI, Art and Visual Media | pgs. 8-23; 25-38; 95-117 | Amelie |
 | 26.11.25 | Auslander, P. 2008. Liveness.                       | pgs. 1-72 | Maria     |
-| 03.12.25 | Plant, S. 1997. Zeros and Ones.                     |       | Bonita    |
+| 03.12.25 | Plant, S. 1997. Zeros and Ones.                     | pgs. 5-60 | Bonita    |
 | 10.12.25 | Mollick, E. 2024. Co-Intelligence.                  |       | Linus     |
 | 17.12.25 | Bridle, J. 2022. Ways of Being.                     |       | Lynn      |
 | 14.01.26 | du Sautoy, M. 2019. The Creativity Code.            |       | Johannes  |

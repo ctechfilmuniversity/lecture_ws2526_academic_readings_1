@@ -164,7 +164,7 @@ You can find most pdfs of the following list in this [ownCloud repository](https
 | 10.12.25 | Mollick, E. 2024. Co-Intelligence.                  | pgs. Introduction, 27-32, 46-62, 136-143, 193-212, Epilogue | Linus     |
 | 17.12.25 | Bridle, J. 2022. Ways of Being.                     | Whole book | Lynn      |
 | 14.01.26 | du Sautoy, M. 2019. The Creativity Code.            |       | Johannes  |
-| 21.01.26 | Gibson, S., Arisona, D., Leishman, A. 2023. Live Visuals: History, Theory, Practice. |       | Katha   |
+| 21.01.26 | Gibson, S., Arisona, D., Leishman, A. 2023. Live Visuals: History, Theory, Practice. | pgs. 194-207, 240-262 | Katha   |
 | 28.01.26 | Boden, M. 2010. Creativity and Artificial Intelligence. |       | Nike  |
 | 04.02.26 | tba                                                 |       |           |
 

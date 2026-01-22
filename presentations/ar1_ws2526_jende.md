@@ -1,1 +1,1 @@
-Please access my presentation via the following link: (https://owncloud.gwdg.de/index.php/f/3819062125)
+Please access my presentation via the following link: https://owncloud.gwdg.de/index.php/f/3819062125

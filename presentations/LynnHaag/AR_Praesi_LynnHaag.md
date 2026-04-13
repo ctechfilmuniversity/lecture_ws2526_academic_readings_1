@@ -1,8 +1,9 @@
 ## Academic Readings
 
-*Hello Alex! This is the link to my presentation for the academic readings classs for WS25/26.*
+*Hello Alex! This is the !new! link to my presentation for the academic readings classs for WS25/26.*
 
-GoogleDrive Link: https://drive.google.com/drive/folders/1bs6WU6lMG5ykADYZ5XvcvNXYtJQMCuIi
+https://owncloud.gwdg.de/index.php/s/Gip9wqImSkkwBRG
+
 
 
 
